@@ -6,3 +6,4 @@ Harshini Kasibhotla <br/>
 Aman Patel <br/>
 Sowjanya Mani <br/>
 Ayushi Gandhi <br/>
+Krutarth Patel
